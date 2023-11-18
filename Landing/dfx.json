@@ -1,0 +1,13 @@
+{
+    "canisters": {
+        "vanilla_icp_davao": {
+            "frontend": {
+                "entrypoint": "src/index.html"
+            },
+            "source": ["src"],
+            "type": "assets"
+        }
+    },
+    "dfx": "0.15.1",
+    "version": 1
+}
